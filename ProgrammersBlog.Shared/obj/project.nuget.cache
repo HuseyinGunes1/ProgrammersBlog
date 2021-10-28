@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Y4dN9WOuY2TNvtIYUg9KXB5a5HoMrL3g4XwQeVFI9rhdGQoVzK+rsuHNHSdP+iuQeyS/p8WZWDXaX8HuPaZ1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hüseyin\\source\\repos\\ProgrammersBlog\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hüseyin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\hüseyin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\hüseyin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

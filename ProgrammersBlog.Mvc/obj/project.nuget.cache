@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "o2asuOYvK43K5YCAQf6NBPXV5ipNsu3F6x2fhBB7PkkOvgt8xAYhC1QlJ19r5bzBc4wpC5dNDIe9JZJMd8e2gA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hüseyin\\source\\repos\\ProgrammersBlog\\ProgrammersBlog.Mvc\\ProgrammersBlog.Mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hüseyin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512",
+    "C:\\Users\\hüseyin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\hüseyin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\hüseyin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
